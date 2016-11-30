@@ -4,7 +4,7 @@
  *
  * In order to run this script use the following console command:
  * php requirements.php
- 
+ *
  */
 
 // you may need to adjust this path to the correct Yii framework path
